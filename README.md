@@ -3,7 +3,6 @@
 \
 \
 Been ~~terminally online~~ coding for 4+ years 
-\
 # Lanugages
 * JS / TS (4 years)
 * Java (3 years)
