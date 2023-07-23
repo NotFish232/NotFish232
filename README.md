@@ -8,5 +8,6 @@ Been ~~terminally online~~ coding for 4+ years
 * Java (3 years)
 * Python (3 years)
 * C++ (2 years)
+* Dart (< 1 week)
 ### PS: PyTorch > TensorFlow 
 ![](https://komarev.com/ghpvc/?username=NotFish232)
