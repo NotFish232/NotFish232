@@ -1,5 +1,5 @@
 ### Hello!
-[![GitHub stats](https://github-readme-stats-ten-zeta-76.vercel.app/api?username=NotFish232&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-5w5otha6c-notfish232.vercel.app/api?username=NotFish232&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 \
 \
 Been ~~terminally online~~ coding for 4+ years 
