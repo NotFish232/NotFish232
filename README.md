@@ -2,7 +2,7 @@
 [![GitHub stats](https://github-readme-stats-5w5otha6c-notfish232.vercel.app/api?username=NotFish232&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 \
 \
-[![Github Stats](https://github-readme-stats-5w5otha6c-notfish232.vercel.app/api/top-langs?username=NotFish232&langs_count=6&hide=jupyter%20notebook&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats-5w5otha6c-notfish232.vercel.app/api/top-langs?username=NotFish232&langs_count=12&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 \
 \
 Been ~~terminally online~~ coding for 4+ years 
