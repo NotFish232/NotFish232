@@ -6,7 +6,7 @@
 \
 \
 Been ~~terminally online~~ coding for 4+ years 
-# Lanugages
+# Languages
 * JS / TS (4 years)
 * Java (3 years)
 * Python (3 years)
