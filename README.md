@@ -10,11 +10,11 @@
 \
 Been ~~terminally online~~ coding for 4+ years 
 # Languages
-* JS / TS (4 years)
-* Java (3 years)
-* Python (3 years)
+* JS / TS (5 years)
+* Java (4 years)
+* Python (4 years)
 * C++ (2 years)
-* Dart (6 months)
+* Dart (1 year)
 * Rust (enough :) )
 ### PS: PyTorch > TensorFlow 
 ![](https://komarev.com/ghpvc/?username=NotFish232)
