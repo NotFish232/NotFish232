@@ -17,4 +17,5 @@ Been ~~terminally online~~ coding for 4+ years
 * Dart (1 year)
 * Rust (enough :) )
 ### PS: PyTorch > TensorFlow 
+[![wakatime](https://wakatime.com/badge/user/018e633f-6db1-4557-84e5-f5a933f3bb2b.svg)](https://wakatime.com/@018e633f-6db1-4557-84e5-f5a933f3bb2b)
 ![](https://komarev.com/ghpvc/?username=NotFish232)
