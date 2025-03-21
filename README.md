@@ -18,5 +18,6 @@ Been ~~terminally online~~ coding for 4+ years
 * Rust (enough :) )
 ### PS: PyTorch > TensorFlow 
 [![wakatime](https://wakatime.com/badge/user/018e633f-6db1-4557-84e5-f5a933f3bb2b.svg)](https://wakatime.com/@018e633f-6db1-4557-84e5-f5a933f3bb2b)
-![](https://leetcard.jacoblin.cool/notfish255?ext=heatmap)
 ![](https://komarev.com/ghpvc/?username=NotFish232)
+
+![](https://leetcard.jacoblin.cool/notfish255?ext=heatmap)
