@@ -1,11 +1,11 @@
 ### Hello!
-[![GitHub stats](https://github-readme-stats-5w5otha6c-notfish232.vercel.app/api?username=NotFish232&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-5w5otha6c-notfish232.vercel.app/api?username=NotFish232&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 \
 \
 [![Top Languages](https://github-readme-stats-5w5otha6c-notfish232.vercel.app/api/top-langs?username=NotFish232&langs_count=6&hide=jupyter%20notebook&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 \
 \
-![Streak](https://streak-stats.demolab.com/?user=notfish232&theme=dark)
+[![Github Streak](https://streak-stats.demolab.com/?user=notfish232&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 \
 \
 Been ~~terminally online~~ coding for 4+ years 
@@ -17,7 +17,8 @@ Been ~~terminally online~~ coding for 4+ years
 * Dart (1 year)
 * Rust (enough :) )
 ### PS: PyTorch > TensorFlow 
-[![wakatime](https://wakatime.com/badge/user/018e633f-6db1-4557-84e5-f5a933f3bb2b.svg)](https://wakatime.com/@018e633f-6db1-4557-84e5-f5a933f3bb2b)
-![](https://komarev.com/ghpvc/?username=NotFish232)
+[![Wakatime](https://wakatime.com/badge/user/018e633f-6db1-4557-84e5-f5a933f3bb2b.svg)](https://wakatime.com/@018e633f-6db1-4557-84e5-f5a933f3bb2b)
 
-![](https://leetcard.jacoblin.cool/notfish255?ext=heatmap)
+[![Profile Views](https://komarev.com/ghpvc/?username=NotFish232)](https://github.com/antonkomarev/github-profile-views-counter)
+
+[![Leetcode](https://leetcard.jacoblin.cool/notfish255?ext=heatmap)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
