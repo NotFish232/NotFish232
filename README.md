@@ -40,6 +40,11 @@
                 <img src="https://wakatime.com/share/@NotFish/1eac247f-3159-447e-9561-228788a76a27.svg" height="300">
             </td>
         </tr>
+         <tr>
+            <td align="center" colspan="2">
+                <img src="https://wakatime.com/share/@NotFish/8498a040-19b4-46e0-b710-f055e2363ab1.svg" height="300">
+            </td>
+        </tr>
     </table>
 </div>
 
