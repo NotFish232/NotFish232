@@ -61,7 +61,7 @@
 
 ---
 
-### Misc
+### Badges
 
 <div align="center">
     <table>
