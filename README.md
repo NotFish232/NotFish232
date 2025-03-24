@@ -42,7 +42,7 @@
         </tr>
          <tr>
             <td align="center" colspan="2">
-                <img src="https://wakatime.com/share/@NotFish/8498a040-19b4-46e0-b710-f055e2363ab1.svg" height="300">
+                <img src="https://wakatime.com/share/@NotFish/8498a040-19b4-46e0-b710-f055e2363ab1.svg" height="200">
             </td>
         </tr>
     </table>
