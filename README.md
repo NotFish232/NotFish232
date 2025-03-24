@@ -28,5 +28,5 @@ Been ~~terminally online~~ coding for 4+ years
 
 [![Leetcode](https://leetcard.jacoblin.cool/notfish255?ext=heatmap)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
-<figure><embed src="https://wakatime.com/share/@NotFish/14655ed7-35ab-4cde-8a0c-e9bf7ea7d850.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@NotFish/c0ea0144-dd09-4872-bd10-5ff2e467636d.svg"></embed></figure>
+<img src="https://wakatime.com/share/@NotFish/14655ed7-35ab-4cde-8a0c-e9bf7ea7d850.svg">
+<img src="https://wakatime.com/share/@NotFish/c0ea0144-dd09-4872-bd10-5ff2e467636d.svg">
