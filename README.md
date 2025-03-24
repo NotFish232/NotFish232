@@ -11,17 +11,17 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-                    <img src="https://streak-stats.demolab.com/?user=notfish232&theme=dark" height="250">
-                </a>
-            </td>
-            <td>
                 <a href="https://github.com/anuraghazra/github-readme-stats">
                     <img src="https://github-readme-stats-5w5otha6c-notfish232.vercel.app/api/top-langs?username=NotFish232&langs_count=6&hide=jupyter%20notebook&theme=onedark&layout=compact" height="250">
                 </a>
             </td>
         </tr>
         <tr>
+            <td>
+                <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+                    <img src="https://streak-stats.demolab.com/?user=notfish232&theme=dark" height="250">
+                </a>
+            </td>
             <td colspan="3" align="center">
                 <a href="https://github.com/antonkomarev/github-profile-views-counter">
                     <img src="https://komarev.com/ghpvc/?username=NotFish232&style=flat-square" height="30">
