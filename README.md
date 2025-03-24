@@ -17,14 +17,9 @@
             </td>
         </tr>
         <tr>
-            <td>
+            <td align="center" colspan="2">
                 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
                     <img src="https://streak-stats.demolab.com/?user=notfish232&theme=dark" height="250">
-                </a>
-            </td>
-            <td colspan="3" align="center">
-                <a href="https://github.com/antonkomarev/github-profile-views-counter">
-                    <img src="https://komarev.com/ghpvc/?username=NotFish232&style=flat-square" height="30">
                 </a>
             </td>
         </tr>
@@ -45,13 +40,6 @@
                 <img src="https://wakatime.com/share/@NotFish/1eac247f-3159-447e-9561-228788a76a27.svg" height="300">
             </td>
         </tr>
-        <tr>
-            <td colspan="2" align="center">
-                <a href="https://wakatime.com/@018e633f-6db1-4557-84e5-f5a933f3bb2b">
-                    <img src="https://wakatime.com/badge/user/018e633f-6db1-4557-84e5-f5a933f3bb2b.svg" height="30">
-                </a>
-            </td>
-        </tr>
     </table>
 </div>
 
@@ -65,6 +53,27 @@
             <td>
                 <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
                     <img src="https://leetcard.jacoblin.cool/notfish255?ext=heatmap" height="300">
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+### Misc
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <a href="https://wakatime.com/@018e633f-6db1-4557-84e5-f5a933f3bb2b">
+                    <img src="https://wakatime.com/badge/user/018e633f-6db1-4557-84e5-f5a933f3bb2b.svg" height="30">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/antonkomarev/github-profile-views-counter">
+                    <img src="https://komarev.com/ghpvc/?username=NotFish232&style=flat-square" height="30">
                 </a>
             </td>
         </tr>
