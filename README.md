@@ -12,7 +12,7 @@
             </td>
             <td>
                 <a href="https://github.com/anuraghazra/github-readme-stats">
-                    <img src="https://github-readme-stats-5w5otha6c-notfish232.vercel.app/api/top-langs?username=NotFish232&langs_count=6&hide=jupyter%20notebook&theme=onedark&layout=compact" height="250">
+                    <img src="https://not-server.tail91ef28.ts.net/top-langs?username=NotFish232&langs_count=6&hide=jupyter%20notebook&theme=onedark&layout=compact" height="250">
                 </a>
             </td>
         </tr>
