@@ -7,7 +7,7 @@
         <tr>
             <td>
                 <a href="https://github.com/anuraghazra/github-readme-stats">
-                    <img src="https://github-readme-stats-5w5otha6c-notfish232.vercel.app/api?username=NotFish232&theme=onedark" height="250">
+                    <img src="not-server.tail91ef28.ts.net/api?username=NotFish232&theme=onedark" height="250">
                 </a>
             </td>
             <td>
